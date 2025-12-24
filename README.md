@@ -1,2 +1,3 @@
-# senior-citizen-assistance-app
-Application to assist senior citizens with essential support features
+This project is under development.
+Purpose: Senior Citizen Assistance Application
+Tech: Python
